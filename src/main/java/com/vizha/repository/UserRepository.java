@@ -12,3 +12,4 @@ public interface UserRepository extends JpaRepository<UserModel, Long>, JpaSpeci
 	UserModel findByIdAndActive(long id, boolean active);
 
 }
+ 

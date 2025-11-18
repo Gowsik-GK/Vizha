@@ -20,7 +20,7 @@ public class UserModel {
 
 	@Id
 	@GeneratedValue(strategy = GenerationType.IDENTITY)
-	private long id;
+	private long id; 
 	private String username;
 	private String password;
 	private String email;

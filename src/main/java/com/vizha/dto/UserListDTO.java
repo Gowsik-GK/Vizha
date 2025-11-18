@@ -16,7 +16,7 @@ public class UserListDTO {
 
 	private int pageNumber;
 	private int listSize;
-	private String searchString;
+	private String searchString; 
 	private ResponseDTO respose;
 
 }

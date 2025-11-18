@@ -14,7 +14,7 @@ import lombok.NoArgsConstructor;
 @JsonInclude(value = JsonInclude.Include.NON_EMPTY, content = JsonInclude.Include.NON_NULL)
 public class UserDTO {
 
-	private long id;
+	private long id; 
 	private String userName;
 	private String password;
 	private String email;

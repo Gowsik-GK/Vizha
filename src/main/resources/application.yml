@@ -11,7 +11,7 @@ spring:
     url: jdbc:postgresql://automotive.cxqw2yko4uas.ap-south-1.rds.amazonaws.com:5432/postgres?currentSchema=public
     username: Mr_Automotive
     password: Automotive#Enthusiast#2000#
-    driver-class-name: org.postgresql.Driver
+    driver-class-name: org.postgresql.Driver 
 
   jpa:
     hibernate:

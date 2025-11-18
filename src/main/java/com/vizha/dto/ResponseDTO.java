@@ -14,4 +14,4 @@ public class ResponseDTO {
 
 	private String responseStatus;
 	private String responseMessage;
-}
+} 

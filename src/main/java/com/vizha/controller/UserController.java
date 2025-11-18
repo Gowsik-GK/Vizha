@@ -22,5 +22,5 @@ public class UserController {
 	public String save(@RequestBody UserDTO userDetails) {
 		String response = userService.save(userDetails);
 		return response;
-	}
+	} 
 }

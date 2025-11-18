@@ -15,4 +15,4 @@ public class VizhaApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(VizhaApplication.class, args);
 	}
-}
+} 
